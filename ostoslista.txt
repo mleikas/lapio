@@ -4,3 +4,6 @@ muroja
 leipää
 maitoa
 karkkia
+lihaa
+jogurttia
+kurkkua
