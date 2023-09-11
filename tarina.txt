@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Terveppä terve!!!
-Nimi on Max
+=======
+Terveppä terve
+>>>>>>> Stashed changes
+Nimi on Max ja homma toimii

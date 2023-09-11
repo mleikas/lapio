@@ -6,4 +6,3 @@ maitoa
 karkkia
 lihaa
 jogurttia
-kurkkua
